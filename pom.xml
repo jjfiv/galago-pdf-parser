@@ -3,9 +3,8 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>edu.umass.cs.ciir</groupId>
     <artifactId>galago-pdf-parser</artifactId>
-    <version>0.4-SNAPSHOT</version>
+    <version>1.0.0</version>
     <packaging>jar</packaging>
-    <name>homer</name>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
